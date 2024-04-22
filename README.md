@@ -1,1 +1,2 @@
 # odin-recipes
+This project is about some of my favorite dishes. It includes an index as home page with a link to each recipe which shows an image, unordered list of ingredients and ordered list of steps to prepare the dish. This is my first odin project for HTML. I was able to used what I learned like properly using of heading and creating working hyperlinks. I've also demonstrated the use of proper indentation.
